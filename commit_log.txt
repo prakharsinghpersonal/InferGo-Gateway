@@ -1,3 +1,4 @@
 - Commit 2 (Go Gateway Server): Implement the Go gRPC server. Write the load-balancing and routing logic to distribute incoming requests.
 - Commit 3 (PyTorch Worker Nodes): Create a mock or lightweight PyTorch Python gRPC server that receives tensors/data, runs a dummy inference, and returns results.
 - Commit 4 (Throughput Optimization): Implement worker pooling and connection multiplexing in the Go gateway to maximize throughput for high-volume traffic.
+- Commit 5 (Deployment & Polish): Write a Dockerfile for both the gateway and the workers. Create a docker-compose setup to spin up 1 gateway and 3 workers, plus documentation.
