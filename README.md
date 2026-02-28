@@ -1,0 +1,1 @@
+# InferGo-Gateway\n\n**InferGo: AI Inference Gateway - High-throughput AI inference gateway using Go and gRPC to route to PyTorch nodes.**\n\n## Tech Stack\n- Go\n- gRPC\n- PyTorch\n- Docker\n
