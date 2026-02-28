@@ -1,0 +1,1 @@
+- Commit 2 (Go Gateway Server): Implement the Go gRPC server. Write the load-balancing and routing logic to distribute incoming requests.
